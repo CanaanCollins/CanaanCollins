@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CanaanCollins
 - 👀 I’m interested in video games (Xbox and PC), anime, volleyball, tennis, basketball, and golf! 
-- 🌱 I’m currently learning Front-End Web Development through Freemote! My short-term goal is to become freelance dev!
-- 💞️ I’m looking to collaborate on Web Development projects! My specialty is eCommerce!
+- 🌱 I’m currently learning Front-End Web Development through Freemote! My short-term goal is to become freelance dev, while my long-term goal is to migrate to video game development!
+- 💞️ I’m looking to collaborate on Web Development projects! My specialty is currently eCommerce!
 - 📫 How to reach me ... You can email me at canaan4444@gmail.com for inquiries or questions! 
 
 <!---
